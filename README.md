@@ -10,4 +10,6 @@ Construção de cardápios considerando restrições alimentares e disponibilida
 Utilização de estruturas de dados Hashmap (Dict e Set) para manipulação dos dados.
 Manipulação de DataFrames utilizando a biblioteca Pandas.
 Implementação de testes de software para validar as funcionalidades.
-Aplicação de princípios de orientação a objetos no projeto.
+Aplicação de princípios de orientação a objetos no projeto. 
+ 
+ Restaurant Orders! 🍽️🔥 último projeto antes da eletiva final!!
